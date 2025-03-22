@@ -8,5 +8,5 @@ export function Provider(props) {
     <ChakraProvider>
       <ColorModeProvider {...props} />
     </ChakraProvider>
-  )
+  )
 }
