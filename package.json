@@ -1,0 +1,29 @@
+{
+  "name": "namma-vivasayi",
+  "version": "1.0.0",
+  "description": "ECommerce Web For Farmer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon Backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkateshwaran-SakthiMurugan/Namma-Vivasayi.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Venkateshwaran-SakthiMurugan/Namma-Vivasayi/issues"
+  },
+  "homepage": "https://github.com/Venkateshwaran-SakthiMurugan/Namma-Vivasayi#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
