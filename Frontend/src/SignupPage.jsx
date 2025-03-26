@@ -6,7 +6,7 @@ import { Provider } from './components/ui/provider.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Provider>
-      < SignupCard />
+    < SignupCard />
     </Provider>
   </StrictMode>,
 )
